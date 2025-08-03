@@ -1,5 +1,3 @@
-import java.security.PublicKey;
-
 public class User {
     protected int userId;
     protected String userName;
@@ -15,3 +13,4 @@ public class User {
     }
 
 }
+
